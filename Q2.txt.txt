@@ -1,0 +1,4 @@
+npm init
+ Inicia un asistente interactivo para generar el archivo package.json, 
+que define la configuración y dependencias de un proyecto Node.js.
+ Esto es esencial para gestionar paquetes, scripts y la estructura del proyecto.
